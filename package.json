@@ -45,6 +45,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-transform-private-property-in-object": "^7.25.9",
     "@iconify/react": "^4.1.1",
     "sass": "^1.64.1"
   }
