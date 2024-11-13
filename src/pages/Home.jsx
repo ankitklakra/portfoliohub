@@ -26,15 +26,9 @@ export default function Home() {
   return (
     <>
       <Hero data={hero} socialData={socialBtns} />
-      {/* <Brands data={brands} /> */}
-      {/* <About data={about} /> */}
       <Projects  />
       <Hackathons/>
       <Positions/>
-      {/* <Service data={service} /> */}
-      {/* <Experience data={experience} /> */}
-      {/* <Testimonial data={testimonial} /> */}
-      {/* <Contact data={contact} socialData={socialBtns} /> */}
     </>
   );
 }
